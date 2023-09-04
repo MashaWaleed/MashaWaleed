@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsahzly!</h1>
-<h3 align="center">A passionate Embedded programmer from Egypt.</h3>
+<h3 align="center">A passionate Embedded AND Web programmer from Egypt!.</h3>
 <img align="right" alt="Steins;Gate" width="400" src="https://giffiles.alphacoders.com/968/9687.gif">
 
-- 🔭 I’m currently working on **Arduino-compatible Radio transmission**
+- 🔭 I’m currently working on **PHP framewrok and SPI implementaion!**
 
-- 🌱 I’m currently learning **ARM based MCUs and Machine Learning**
+- 🌱 I’m currently learning **ARM based MCUs and PCB Design**
 
 - 👨‍💻 All of my projects are available at [https://mashawaleed.github.io/](https://mashawaleed.github.io/)
 
