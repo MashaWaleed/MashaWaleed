@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **RTOS Implementation**
 
-- 🌱 I’m currently learning **ARM based MCUs and PCB Design**
+- 🌱 I’m currently learning **End to End Data Engineering and Analytics**
 
 - 👨‍💻 All of my projects are available at [https://mashawaleed.github.io/](https://mashawaleed.github.io/)
 
